@@ -1,4 +1,3 @@
-﻿# Home-Cook-Food-Mern-Website-with-Chatbot-
 # 🍲 HomeCook - Order Homemade Food Online (MERN + AI Chatbot)
 
 **HomeCook** is a full-stack web application built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to browse, order, and enjoy fresh homemade food. The platform also features a smart AI-powered chatbot that answers customer queries related to food, orders, delivery, and more.
